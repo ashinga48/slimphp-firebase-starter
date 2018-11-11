@@ -1,0 +1,9 @@
+/logs
+/logs/*
+/logs/
+/vendor
+/vendor/*
+/vendor/
+test.json
+cornercarwash.json
+composer.phar
